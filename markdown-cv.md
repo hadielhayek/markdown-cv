@@ -60,3 +60,4 @@ Statistical operation: SPSS, STATA
 ## Programming: C++, SQL, HTML
 
 ## REFERENCES References available on request^
+![alt text for screen readers](1.png "this is me")
